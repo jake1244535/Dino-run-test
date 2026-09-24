@@ -1,0 +1,6 @@
+{
+  "name": "Dino Run Evolution",
+  "description": "Juego del dinosaurio estilo Google Dino con tienda de mejoras, modo clásico pixel, modo a color y modo realista.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
